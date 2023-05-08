@@ -1,3 +1,12 @@
+
+Cuddling is the best.
+
+Human beings are a social species, therefore we were made to connect with each other. And one of the main ways that we connect to each other is through physical contact
+
+
+
+
+
 ![Cover](https://user-images.githubusercontent.com/50031755/178385492-ad9ae4c3-87fd-4710-94ad-3b6921aa10e8.png)
 
 [![Author](https://img.shields.io/badge/author-GSTJ-F2C702?style=flat-square)](https://github.com/GSTJ)
